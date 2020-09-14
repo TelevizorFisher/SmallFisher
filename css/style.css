@@ -2515,7 +2515,6 @@ body.ie .ibg img {
 	-webkit-box-align: center;
 	    -ms-flex-align: center;
 	        align-items: center;
-	background-color: #0021;
 }
 
 .slick-slider {
@@ -2573,12 +2572,12 @@ body.ie .ibg img {
 
 .slider .slick-arrow.slick-prev {
 	left: 0;
-	background: url("../img/sl-arrow_l.svg") 0 0/100% no-repeat;
+	background: url("../../img/icons/p-left.svg") 0 0/100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next {
 	right: 0;
-	background: url("../img/sl-arrow_r.svg") 0 0/100% no-repeat;
+	background: url("../../img/icons/p-right.svg") 0 0/100% no-repeat;
 }
 
 .slider .slick-arrow.slick-disabled {
